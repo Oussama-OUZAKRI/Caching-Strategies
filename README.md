@@ -144,10 +144,6 @@ Choose from dropdown menu.
 | **Write-Around**   | Bypass cache for writes                     | Write-heavy workloads              |  
 | **Write-Back**     | Async DB writes via cache                   | High write performance             |  
 
-## License  
-
-MIT License  
-
 ## Contributing  
 
 Contributions welcome! Please open an issue or PR for any improvements.  
